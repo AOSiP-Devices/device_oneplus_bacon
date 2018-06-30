@@ -32,7 +32,7 @@ TARGET_SCREEN_WIDTH := 1080
 # Camera
 PRODUCT_PACKAGES += \
     libshim_camera \
-    SnapdragonCamera \
+    Snap \
     camera.msm8974
 
 # Dalvik/HWUI
